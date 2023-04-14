@@ -1,16 +1,16 @@
-# flutter_exercise_4
+# Flutter基礎講座第４回練習問題
 
-Flutter基礎講座練習問題Part4
+## 問１
+画像のURLを引数として受け取る、新しいStatefulWidget "FullImage"を作成してください。
 
-## Getting Started
+## 問２
+FullImageに受け取ったURLの画像を表示する機能を追加してください。
 
-This project is a starting point for a Flutter application.
+## 問３
+メイン画面のそれぞれの画像をタップするとFullImageに画面遷移できるようにしてください。また、タップする画像と遷移後のFullImageに表示される画像が一致するようにしてください。
 
-A few resources to get you started if this is your first Flutter project:
+## 問４
+FullImageで表示される画像が、全体表示になるようにしてください。
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 問５
+FullImageの画像をタップすると、画像が小さくなり、もう一度タップすると元の大きさに戻るようにしてください。
