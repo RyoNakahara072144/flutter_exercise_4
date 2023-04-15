@@ -14,3 +14,6 @@ FullImageで表示される画像が、全体表示になるようにしてく�
 
 ## 問５
 FullImageの画像をタップすると、画像が小さくなり、もう一度タップすると元の大きさに戻るようにしてください。
+
+## 解答解説動画
+https://nk-free.com/mugi/videos/flutter_exercise_4.mp4
